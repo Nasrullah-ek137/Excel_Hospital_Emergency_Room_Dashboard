@@ -1,0 +1,67 @@
+🏥 Project Title
+Hospital Emergency Room Dashboard Analysis
+
+🧾 Description
+Developed an interactive Hospital Emergency Room dashboard to monitor patient flow, admission status, waiting time, and departmental referrals. The dashboard provides real-time healthcare insights to improve operational
+efficiency and patient service management.
+
+🎯 Objectives
+Track emergency room patient volume
+Monitor admission vs non-admission rate
+Analyze average waiting time
+Evaluate patient satisfaction score
+Identify department referral distribution
+
+📂 Repository Contents
+📁 Data/ → ER patient dataset (raw & cleaned)
+📁 Dashboard/ → Excel Dashboard file
+📁 Images/ → Dashboard screenshots
+README.md → Project documentation
+
+📊 Key KPIs Highlighted
+Total Patients: 513
+Average Waiting Time: 36.32 Minutes
+Patient Satisfaction Score: 4.96 / 5
+
+📈 Dashboard Insights
+Admission Status Analysis
+Admitted vs Not Admitted %
+Age Group Patient Distribution
+0–9, 10–19, 20–29 … 70–79
+Department Referrals
+Cardiology
+Orthopedics
+Neurology
+Gastroenterology
+General Medicine
+Patient Visit Trends (Monthly)
+On-time vs Delayed Attendance
+Gender-wise Patient Analysis
+
+🛠️ Tools & Technologies Used
+Microsoft Excel
+Pivot Tables & Charts
+Slicers & Filters
+Data Cleaning
+Dashboard Design
+
+🔍 Features
+Interactive month & year filters
+KPI summary cards
+Department performance tracking
+Patient demographic analysis
+Waiting time monitoring
+
+▶️ How to Use
+Download dashboard file
+Open in Microsoft Excel
+Use filters/slicers
+Analyze ER performance metrics
+
+📌 Healthcare Use Case
+This dashboard helps hospitals:
+Optimize emergency response time
+Manage patient admission load
+Improve satisfaction scores
+
+Allocate department resources
